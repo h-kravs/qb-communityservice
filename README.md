@@ -5,6 +5,7 @@ Community Service Script for QBCore Framework
 
 **Dependencies:**
 - https://github.com/qbcore-framework/qb-core
+- https://github.com/qbcore-framework/qb-policejob
 
 **Installation**
 - Upload db
