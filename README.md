@@ -1,8 +1,7 @@
-# qb-communityservice
 Community Service Script for QBCore Framework 
 
 
-Converted from https://github.com/apoiat/ESX_CommunityService
+**Converted from ESX to QB -** https://github.com/apoiat/ESX_CommunityService
 
 **Dependencies:**
 - https://github.com/qbcore-framework/qb-core
