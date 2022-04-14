@@ -7,5 +7,7 @@ Community Service Script for QBCore Framework
 - https://github.com/qbcore-framework/qb-core
 
 **Installation**
-- Drag and drop into resources and start
+- Upload db
+- Drag and drop into resources 
+- Start in server.cfg
 - Trigger this event in your qb-spawn client.lua || **TriggerServerEvent('qb-communityservice:checkIfSentenced')**
